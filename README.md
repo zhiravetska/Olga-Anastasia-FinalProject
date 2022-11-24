@@ -1,4 +1,4 @@
-The idea of the project is to estimate the quota of renewable energy production in the whole consumption of energy and electricity production for 40 countires of European area. 
+The idea of the project is to estimate the quota of renewable energy production in the whole consumption of energy and electricity production for 40 countries of European area. 
 
 The statistical data have been taken from Eurostat data base:
     https://ec.europa.eu/eurostat/databrowser/view/NRG_BAL_S/default/table?lang=en&category=nrg.nrg_quant.nrg_quanta.nrg_bal - for the total consumption of energy 
