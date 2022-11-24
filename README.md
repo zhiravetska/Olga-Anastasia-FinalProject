@@ -10,3 +10,5 @@ Measurement unit of all the data to be analysed is GWh.
 The idea of the project is realised by means of two files: eurostat_dataset.py and Eurostat.ipynb. The first code is an obtaining of the data from Eurostat web. The second is the processing of the obtained data and its visulation.
 
 Visualisation is represented in the barplot as the analysis of the renewables quota in the total energy consumption of th ecountries and plots representation of the persentage ratio of elecricity production to total energy and energy consumption per capita (in this case in MWh).
+
+Olga and Anastasia contributed into this project )
